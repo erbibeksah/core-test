@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Hackathons\Publish_Patch</_PublishTargetUrl>
+    <History>True|2025-01-06T17:35:43.9473550Z||;True|2025-01-06T22:47:27.6527216+05:30||;True|2025-01-05T16:03:13.4253719+05:30||;True|2025-01-05T15:10:38.3828045+05:30||;True|2025-01-05T14:36:08.8231886+05:30||;True|2025-01-05T14:26:52.8268596+05:30||;True|2025-01-05T13:43:01.2339533+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

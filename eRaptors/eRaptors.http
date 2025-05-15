@@ -1,0 +1,6 @@
+@eRaptors_HostAddress = http://localhost:5014
+
+GET {{eRaptors_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

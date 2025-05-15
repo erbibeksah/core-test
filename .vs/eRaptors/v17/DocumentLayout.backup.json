@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hackathons\\eRaptors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\common\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\controllers\\urlshortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\services\\urlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\iservices\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\iservices\\iurlshortenerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\models\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\models\\shortenedurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\controllers\\cachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\services\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|e:\\hackathons\\eraptors\\eraptors\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C735623-97F7-4B7A-BC41-04D387640A35}|eRaptors\\eRaptors.csproj|solutionrelative:eraptors\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Common\\ApiResponse.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "eRaptors\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:27:10.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "eRaptors\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:26:40.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Common\\Utility.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Common\\Utility.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Common\\Utility.cs",
+              "RelativeToolTip": "eRaptors\\Common\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:53:12.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\appsettings.json",
+              "RelativeDocumentMoniker": "eRaptors\\appsettings.json",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\appsettings.json",
+              "RelativeToolTip": "eRaptors\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T07:23:13.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CacheController.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\CacheController.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Controllers\\CacheController.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\CacheController.cs",
+              "RelativeToolTip": "eRaptors\\Controllers\\CacheController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T04:56:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "eRaptors\\GlobalUsings.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\GlobalUsings.cs",
+              "RelativeToolTip": "eRaptors\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T04:41:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrlShortenerService.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Services\\UrlShortenerService.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Services\\UrlShortenerService.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Services\\UrlShortenerService.cs",
+              "RelativeToolTip": "eRaptors\\Services\\UrlShortenerService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:09:01.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUrlShortenerService.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\IServices\\IUrlShortenerService.cs",
+              "RelativeDocumentMoniker": "eRaptors\\IServices\\IUrlShortenerService.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\IServices\\IUrlShortenerService.cs",
+              "RelativeToolTip": "eRaptors\\IServices\\IUrlShortenerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:07:19.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Program.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Program.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Program.cs",
+              "RelativeToolTip": "eRaptors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:22:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlShortenerController.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\UrlShortenerController.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Controllers\\UrlShortenerController.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Controllers\\UrlShortenerController.cs",
+              "RelativeToolTip": "eRaptors\\Controllers\\UrlShortenerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:10:21.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\web.config",
+              "RelativeDocumentMoniker": "eRaptors\\web.config",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\web.config",
+              "RelativeToolTip": "eRaptors\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-05T19:09:02.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGeoLocationService.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Services\\IGeoLocationService.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Services\\IGeoLocationService.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Services\\IGeoLocationService.cs",
+              "RelativeToolTip": "eRaptors\\Services\\IGeoLocationService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:58:36.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShortenedUrl.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Models\\ShortenedUrl.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Models\\ShortenedUrl.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Models\\ShortenedUrl.cs",
+              "RelativeToolTip": "eRaptors\\Models\\ShortenedUrl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:04:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Hackathons\\eRaptors\\eRaptors\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "eRaptors\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Hackathons\\eRaptors\\eRaptors\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "eRaptors\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:31:56.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

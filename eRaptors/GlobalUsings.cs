@@ -1,0 +1,11 @@
+﻿global using eRaptors.Models;
+global using eRaptors.IServices;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using eRaptors.Common;
+global using System.Security.Authentication;
+global using eRaptors.Data;
+global using Microsoft.Extensions.Caching.Memory;
+global using QRCoder;
